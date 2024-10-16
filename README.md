@@ -77,7 +77,7 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gddhouse/Hello-world/blob/main/Honey_head.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gddhouse/Hello-world/blob/main/Honey_head.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/gddhouse/Hello-world/blob/main/Honey_head.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/gddhouse/Hello-world/blob/main/Honey_head.jpg" width="500" height="550">
 </picture>
 
 
